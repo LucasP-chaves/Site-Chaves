@@ -1,0 +1,88 @@
+body {
+	font-family: tahoma;
+}
+
+h2 {
+	font-size: 35px;
+	font-style: italic;
+	background-color: green;
+	color: white;
+}
+
+.cabecalho {
+	font-style: italic;
+	font-size: 15px;
+	text-align: right;
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 50px;
+	font-style: bold;
+	background-color: green;
+	color: white;
+}
+
+p {
+	font-size: 20px;
+	text-align: justify;
+}
+
+.quico {
+	color: red;
+}
+
+.quico2 {
+	border-width: medium;
+	border-color: red;
+	border-style: solid;
+}
+
+.paginaquico {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.madruga {
+	color: blue;
+}
+
+.madruga2 {
+	border-width: medium;
+	border-color: blue;
+	border-style: solid;
+}
+
+.paginamadruga {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.chiquinha {
+	color: green;
+}
+
+.chiquinha2 {
+	border-width: medium;
+	border-color: green;
+	border-style: solid;
+}
+
+.paginachiquinha {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+ 
+ img {
+ 	position: center;
+}
+
+.legenda {
+	text-align: center;
+}
